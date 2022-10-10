@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Chan;Edmond
+FN:Edmond Chan
+TITLE:Solution Architect
+ORG:NetCraft
+URL:http://www.netcraft.com.mo
+EMAIL;TYPE=INTERNET:Edmond_Chan@netcraft.com.mo
+TEL;TYPE=voice,work,pref:853 2870 1100
+TEL;TYPE=voice,cell,pref:853 6305 6006
+TEL;TYPE=fax,work,pref:853 2870 0066
+END:VCARD
