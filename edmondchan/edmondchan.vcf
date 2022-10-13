@@ -1,19 +1,19 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Wong ;Beatriz;;;
-FN:Beatriz Wong 
+N:Chan ;Edmond;;;
+FN:Edmond Chan 
 ORG:NetCraft Information Technology (Macau) Co. Ltd
 COMPANY:NetCraft Information Technology (Macau) Co. Ltd
-TITLE:Marketing Officer 
+TITLE:Solution Architect
 ADR;CHARSET=UTF-8:Alameda Dr. Carlos D' Assumpcao No. 258, Praca Kin Heng Long, 8 Andar B, Macau
-TEL;TYPE=work,pref:853 87951658
-TEL;CELL;TYPE=mobile,VOICE:85362072821
+TEL;TYPE=work,pref:853 87951689
+TEL;CELL;TYPE=mobile,VOICE:85362266928
 TEL;CELL;TYPE=Office,VOICE:
 TEL;CELL;TYPE=FAX,VOICE:
 TEL;TYPE=HOME,VOICE:
 TEL;TYPE=SMS:
 TEL;TYPE=SIGNAL:
-EMAIL;TYPE=Email:beatriz_wong@netcraft.com.mo
+EMAIL;TYPE=Email:edmond_chan@netcraft.com.mo
 URL;TYPE=Digital Business Card:
 
 URL;TYPE=Location:https://goo.gl/maps/jiHMu82zfUEnZGqU7
